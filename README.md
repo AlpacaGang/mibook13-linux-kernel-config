@@ -15,6 +15,7 @@ To strip down as much module as possible but preserving the basic functionalitie
 
 ## Enable Nvidia Bumblebee (alias optimus)
 
-On Arch system you will have to install `nvidia-dpkg` and `bbswitch-dpkg` in order to compile automatically the required extra modules for this custom kernel.
-Once you install the above packages the compilation will be done automatically during installation of the kernel.
+On Arch system you will have to install `nvidia-dpkg` and `bbswitch-dpkg` in order to compile automatically the required extra modules for this custom kernel. 
+Once you install the above packages the compilation will be done automatically during installation of the kernel. 
+
 This assume that you already enabled Bumblebee on your system: this is a [good guide](https://antergos.com/wiki/hardware/graphics/bumblebee-for-nvidia-optimus/) by Antegos folks.
