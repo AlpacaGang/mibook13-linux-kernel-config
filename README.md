@@ -11,7 +11,7 @@ The complete list of modules is included in the file [modprobed.db](https://gith
 
 I created this config following the [Arch Linux ABS guide](https://wiki.archlinux.org/index.php/Kernels/Arch_Build_System) to compile the kernel.
 
-To strip down as much module as possible but preserving the basic functionalities I used [Modprobed-db](https://wiki.archlinux.org/index.php/Modprobed-db) ( it is script created to work with `make localmodconfig` and integrates with Arch ABS)
+To strip down as much module as possible but preserving the basic functionalities I used [Modprobed-db](https://wiki.archlinux.org/index.php/Modprobed-db) ( it is a script created to work with `make localmodconfig` and integrates with Arch ABS)
 
 ## Enable Nvidia Bumblebee (alias optimus)
 
