@@ -1,7 +1,7 @@
 # Mi Book 13 Linux Kernel Config
 
 ## Description 
-This is a configuration for Linux kernel compilation.
+This is a configuration for Linux kernel compilation: `Linux 4.8.10-1`
 
 The configuration has been stipped down to include only the modules required by the system + some common modules (es. ext2/ext4 ... ).
 
